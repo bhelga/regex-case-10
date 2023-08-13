@@ -1,0 +1,15 @@
+C:\Repos\ai\regex-case-10\Case-10\bin\Debug\net6.0\Case-10.exe
+C:\Repos\ai\regex-case-10\Case-10\bin\Debug\net6.0\Case-10.deps.json
+C:\Repos\ai\regex-case-10\Case-10\bin\Debug\net6.0\Case-10.runtimeconfig.json
+C:\Repos\ai\regex-case-10\Case-10\bin\Debug\net6.0\Case-10.dll
+C:\Repos\ai\regex-case-10\Case-10\bin\Debug\net6.0\Case-10.pdb
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.csproj.AssemblyReference.cache
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.AssemblyInfoInputs.cache
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.AssemblyInfo.cs
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.csproj.CoreCompileInputs.cache
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.dll
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\refint\Case-10.dll
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.pdb
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\Case-10.genruntimeconfig.cache
+C:\Repos\ai\regex-case-10\Case-10\obj\Debug\net6.0\ref\Case-10.dll
